@@ -9,6 +9,8 @@ hashclash from https://github.com/cr-marcstevens/hashclash
 # requirements
 python3 from `https://www.python.org/`
 
+then you need to install pillow library `pip install pillow`
+
 i recommend using linux as i haven't tested it on windows
 
 if you are on windows you can download wsl from the microsoft store
