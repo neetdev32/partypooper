@@ -50,6 +50,11 @@ sage your thread so it gets deleted faster
 
 once its deleted you are free to upload the photo ending in `-evil.png` and bypass the mpa
 
+# automation
+if you have a bunch of files you can put the good files in dir `good` and evil files in dir `evil`
+
+then use `make_pairs.py` and it will automatically pair each file together and output them to dir `pairs`
+
 # final notes
 if you need some images for `evil.png` look inside the images directory 
 
