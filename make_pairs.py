@@ -6,7 +6,7 @@ import shutil
 import subprocess
 
 random_name = lambda : secrets.token_hex()[:(7 + secrets.randbelow(12 - 7))] + ".png"
-pairs_dir = "pairs_2"
+pairs_dir = "pairs"
 skip = False # skip if already exists
 
 os.makedirs(pairs_dir, exist_ok = True)
